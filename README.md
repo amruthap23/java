@@ -1,2 +1,0 @@
-# java
-Minutes-Yr/Days
